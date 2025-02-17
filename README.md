@@ -1,4 +1,4 @@
-# Log File Monitor Script
+# Log File Monitor Script (Test-Branch)
 
 This Python script is designed to monitor changes to a log file accessible over HTTP. It periodically checks the file for any new content and prints the updates to the console. The script supports optional Basic Authentication and allows users to specify the polling interval.
 
